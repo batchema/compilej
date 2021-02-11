@@ -1,5 +1,5 @@
 /*
- * @author: Batchema Sombie
+ * @author: Batchema Sombie; CIS 240 UPenn
  * token.h: header file for token.c
  * A suite of functions to read
  * and manipulate j-language tokens
