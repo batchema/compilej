@@ -4,7 +4,7 @@
  * A suite of functions to read
  * and manipulate j-language tokens
  *
- * UPENN CIS 240 HW9
+ * UPENN CIS 240
  */
 
 #define MAX_TOKEN_LENGTH 250

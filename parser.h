@@ -3,9 +3,9 @@
  * parser.h: header file for parser.c
  * A suite of functions to read
  * j-language tokens from files
- * and write 
+ * and write out .asm file
  *
- * UPENN CIS 240 HW9
+ * UPENN CIS 240
  */
 
 #include <stdio.h>

@@ -4,7 +4,7 @@
  * a set of utility functions useful
  * accross files
  *
- * UPENN CIS 240 HW9
+ * UPENN CIS 240
  */
 
 /*
