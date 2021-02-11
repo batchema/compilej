@@ -1,7 +1,7 @@
 # CompileJ: A J compiler
 ## Description:
 This is a suite of utility functions to generate assembly (.asm) files from J language files (.j)
-J is a stack-oriented language loosely inspired by [Forth](). The J language used for this project is not the same as the [J Software]() language.
+J is a stack-oriented language loosely inspired by [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)). The J language used for this project is not the same as the [J Software](https://www.jsoftware.com/#/) language.
 
 ## Project structure
 - `Makefile`: file defining the `make` command options  
